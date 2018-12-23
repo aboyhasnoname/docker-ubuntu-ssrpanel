@@ -1,7 +1,7 @@
 
 FROM ubuntu:16.04
 
-MAINTAINER AManhasnoname <athinghasnoname@gmail.com>
+MAINTAINER aboyhasnoname <athinghasnoname@gmail.com>
 
 RUN apt-get update -y && \
     apt-get install -y supervisor && \
